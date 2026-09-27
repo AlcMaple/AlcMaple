@@ -1,4 +1,4 @@
-## Hi, I'm AlcMaple 🍁
+## Hi, I'm AlcMaple
 
 做给自己也好用的动漫、音乐与效率工具。
 
