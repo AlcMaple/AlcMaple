@@ -5,7 +5,7 @@
 ## 我的网站
 
 - 📺 **[MapleTools 追番网站](https://anime.alcmaple.cn/)** — 在线管理个人追番列表与观看进度，新番周历，多源在线观看；[功能介绍](https://anime.alcmaple.cn/about.html)
-- 🎵 **[Biu 在线音乐播放器](https://music.alcmaple.cn/)**
+- 🎵 **[Biu 在线音乐播放器](https://music.alcmaple.cn/)** — 基于开源项目 [Biu](https://github.com/wood3n/biu) 二次开发，搜索哔哩哔哩音乐资源，在线播放与歌单管理
 - ✍️ **[AlcMaple 的博客](https://blog.alcmaple.cn/)** — 前端开发、自建服务与实用工具笔记
 
 ## 主要项目
